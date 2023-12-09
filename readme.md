@@ -1,4 +1,4 @@
-# Text Detection using Convolutional Recurrent Neural Networks on TRSynth100K
+# Text Detection using CRNN on TRSynth100K
 
 ## Business Objective
 
@@ -71,16 +71,6 @@ The objective of this project is to build a CRNN network capable of detecting an
 1. **output**: Contains the best-fitted model trained for this data, which can be loaded and used for future tasks without retraining.
 
 2. **lib**: A reference folder containing the original Jupyter notebook used in the project.
-
----
-
-## Key Concepts Explored
-
-1. Understanding the business problem
-2. CRNN Architecture
-3. Connectionist Temporal Classification (CTC) loss function
-4. Making predictions with the model
-5. Interpreting the generated results
 
 ---
 
